@@ -1,8 +1,15 @@
-# React + Vite
+# Biblioteca de Resumos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao projeto Biblioteca de resumos! Este repositório foi criado com o intuito de compartilhar resumos e materiais educativos sobre a linguagem de programação C, com o objetivo de auxiliar outras pessoas a aprenderem e dominarem essa linguagem. Este projeto é também uma oportunidade para eu aprender e praticar React com Vite.
 
-Currently, two official plugins are available:
+## Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto visa fornecer:
+
+- Resumos e tutoriais sobre conceitos fundamentais da linguagem C.
+- Exemplos de código para ilustrar os conceitos.
+- Uma interface simples e interativa para facilitar o aprendizado.
+
+## Estrutura do Projeto
+
+O projeto está estruturado utilizando React com Vite.
